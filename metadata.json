@@ -1,0 +1,7 @@
+{
+  "name": "WanderPlan AI",
+  "description": "An intelligent trip planner that combines manual itinerary management with AI-generated trips based on your vibe and preferences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
